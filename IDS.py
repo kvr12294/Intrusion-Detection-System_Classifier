@@ -1,6 +1,3 @@
-"""
-@author Shailesh Vajpayee Email: srv6224@rit.edu
-"""
 import numpy as np
 import matplotlib.pyplot as plt
 from itertools import cycle
